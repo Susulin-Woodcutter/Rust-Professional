@@ -16,6 +16,7 @@ use std::fmt::{self, Display, Formatter};
 pub fn merge_intervals(intervals: Vec<Vec<i32>>) -> Vec<Vec<i32>> {
     // TODO: Implement the logic to merge overlapping intervals
     Vec::new() // Placeholder return value
+
 }
 
 #[cfg(test)]
